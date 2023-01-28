@@ -1,3 +1,9 @@
+# Build dirs
+classifier/build
+
+# IDE
+.idea
+
 # Prerequisites
 *.d
 

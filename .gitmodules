@@ -1,0 +1,9 @@
+[submodule "classifier/vcpkg"]
+	path = classifier/vcpkg
+	url = https://github.com/Microsoft/vcpkg.git
+[submodule "classifier/vendor/pytorch"]
+	path = classifier/vendor/pytorch
+	url = https://github.com/pytorch/pytorch.git
+[submodule "classifier/vendor/emsdk"]
+	path = classifier/vendor/emsdk
+	url = https://github.com/emscripten-core/emsdk.git
